@@ -1,0 +1,13 @@
+[{
+  "file": "/Users/MacAir/Documents/Project C /BT3/main.c",
+  "directory": "/Users/MacAir/Documents/Project C /BT3",
+  "command": "clang -c \"/Users/MacAir/Documents/Project C /BT3/main.c\" -o \"/Users/MacAir/Documents/Project C /BT3/main.c\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "/Users/MacAir/Documents/Project C /BT2/main.c",
+  "directory": "/Users/MacAir/Documents/Project C /BT2",
+  "command": "clang -c \"/Users/MacAir/Documents/Project C /BT2/main.c\" -o \"/Users/MacAir/Documents/Project C /BT2/main.c\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "/Users/MacAir/Documents/Project C /BT1/main.c",
+  "directory": "/Users/MacAir/Documents/Project C /BT1",
+  "command": "clang -c \"/Users/MacAir/Documents/Project C /BT1/main.c\" -o \"/Users/MacAir/Documents/Project C /BT1/main.c\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }]

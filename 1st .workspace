@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="1st " Database="1st -macair.tags" Version="10000">
+  <Project Name="BT1" Path="BT1/BT1.project" Active="No"/>
+  <Project Name="BT2" Path="BT2/BT2.project" Active="Yes"/>
+  <Project Name="BT3" Path="BT3/BT3.project"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="vidu01" ConfigName="Debug"/>
+      <Project Name="vidu2" ConfigName="Debug"/>
+      <Project Name="vidu3" ConfigName="Debug"/>
+      <Project Name="BT1" ConfigName="Debug"/>
+      <Project Name="BT2" ConfigName="Debug"/>
+      <Project Name="BT3" ConfigName="Debug"/>
+      <Project Name="BT3" ConfigName="Debug"/>
+      <Project Name="BT3" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="vidu01" ConfigName="Release"/>
+      <Project Name="vidu2" ConfigName="Release"/>
+      <Project Name="vidu3" ConfigName="Release"/>
+      <Project Name="BT1" ConfigName="Release"/>
+      <Project Name="BT2" ConfigName="Release"/>
+      <Project Name="BT3" ConfigName="Release"/>
+      <Project Name="BT3" ConfigName="Release"/>
+      <Project Name="BT3" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
